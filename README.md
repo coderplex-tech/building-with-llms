@@ -1,4 +1,4 @@
-# LLM Architecture Patterns
+# Building With LLMs
 
 A practical guide and reference implementation of architecture patterns for building with Large Language Models (LLMs). This repository focuses on native implementations without relying on frameworks, demonstrating how to build both simple workflows and complex autonomous agents.
 
